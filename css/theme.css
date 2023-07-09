@@ -484,7 +484,8 @@ img.publications-thumb {
 }
 
 img.carousel-image {
-	width: 100%;
+	width: 50%;
+	height: 50%;
 }
 
 li.publication {
