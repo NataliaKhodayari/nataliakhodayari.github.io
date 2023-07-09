@@ -449,7 +449,7 @@ img.publications-thumb {
 }
 
 .caption {
-	margin: 10px;
+	margin: 0px;
 }
 
 .responsive-video {
@@ -484,8 +484,8 @@ img.publications-thumb {
 }
 
 img.carousel-image {
-	width: 50%;
-	height: 50%;
+	width: 60%;
+	height: 60%;
 }
 
 li.publication {
