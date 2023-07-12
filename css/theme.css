@@ -489,6 +489,12 @@ img.carousel-image {
 	height: 50%;
 }
 
+img.slideshow{
+    height:400px;
+    width: auto;/*maintain aspect ratio*/
+    
+}
+
 li.publication {
 	margin-bottom: 20px;
 }
