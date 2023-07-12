@@ -484,15 +484,11 @@ img.publications-thumb {
 	height: 150px;
 }
 
-/* img.carousel-image {
-	width: 50%;
-	height: 50%;
-} */
-
-img.slideshow{
-    height:400px;
+img.carousel-image {
+	/* width: 50%;
+	height: 50%; */
+	height:400px;
     width: auto;/*maintain aspect ratio*/
-    
 }
 
 li.publication {
