@@ -3335,16 +3335,16 @@ input, select, textarea {
 
 	#main {
 		background-color: #ffffff;
-		color: #636363;
+		color: #000000;
 		border-radius: 0.25em;
 	}
 
 		#main input, #main select, #main textarea {
-			color: #636363;
+			color: #000000;
 		}
 
 		#main a:hover {
-			color: #636363;
+			color: #000000;
 		}
 
 		#main strong, #main b {
