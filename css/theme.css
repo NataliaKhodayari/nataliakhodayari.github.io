@@ -485,9 +485,7 @@ img.publications-thumb {
 }
 
 img.carousel-image {
-	/* width: 50%;
-	height: 50%; */
-	height:300px;
+	height:450px;
     width: auto;/*maintain aspect ratio*/
 }
 
