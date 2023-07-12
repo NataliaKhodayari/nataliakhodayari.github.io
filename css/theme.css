@@ -1,13 +1,14 @@
 body {
 	padding-top: 15px;
 	padding-bottom: 0px;
+	margin: 20px;
 }
 
 
 /* Custom container */
 
 .container {
-	margin: 0 auto;
+	margin: 20px auto;
 	max-width: 1000px;
 }
 
