@@ -2980,6 +2980,7 @@ input, select, textarea {
 		-ms-align-items: center;
 		align-items: center;
 		margin: 0 0 2em 0;
+		padding-top: 5%;
 	}
 
 		.spotlight .content {
@@ -3218,7 +3219,7 @@ input, select, textarea {
 		background-color: #ffffff;
 		color: #636363;
 		position: absolute;
-		width: 99.3em;
+		width: fit-content;
 		max-width: calc(100% - 4em);
 		padding: 1em;
 		background-color: #f7f7f7;
