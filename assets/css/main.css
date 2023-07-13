@@ -3219,7 +3219,7 @@ input, select, textarea {
 		background-color: #ffffff;
 		color: #636363;
 		position: absolute;
-		width: fit-content;
+		width: 79.7;
 		max-width: calc(100% - 4em);
 		padding: 1em;
 		background-color: #f7f7f7;
