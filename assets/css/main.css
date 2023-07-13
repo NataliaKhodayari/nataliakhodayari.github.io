@@ -3324,6 +3324,7 @@ input, select, textarea {
 
 			#nav {
 				display: none;
+				position:relative;
 			}
 
 				#nav + #main {
