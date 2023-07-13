@@ -82,10 +82,10 @@ input, select, textarea {
 		-ms-overflow-style: scrollbar;
 	}
 
-	@media screen and (max-width: 480px) {
+	@media screen and (max-width: auto) {
 
 		html, body {
-			min-width: 320px;
+			min-width: auto;
 		}
 
 	}
@@ -131,7 +131,7 @@ input, select, textarea {
 		line-height: 1.65;
 	}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width: auto) {
 
 			body, input, select, textarea {
 				font-size: 14pt;
@@ -139,7 +139,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: auto) {
 
 			body, input, select, textarea {
 				font-size: 12pt;
@@ -147,7 +147,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 360px) {
+		@media screen and (max-width: auto) {
 
 			body, input, select, textarea {
 				font-size: 11pt;
@@ -230,7 +230,7 @@ input, select, textarea {
 		font-size: 0.7em;
 	}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: auto) {
 
 		h1 {
 			font-size: 2em;
@@ -574,7 +574,7 @@ input, select, textarea {
 					padding-top: 3em;
 				}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width: auto) {
 
 			.row {
 				display: flex;
@@ -819,7 +819,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: auto) {
 
 			.row {
 				display: flex;
@@ -1064,7 +1064,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: auto) {
 
 			.row {
 				display: flex;
@@ -1309,7 +1309,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: auto) {
 
 			.row {
 				display: flex;
@@ -1554,7 +1554,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: auto) {
 
 			.row {
 				display: flex;
@@ -2310,7 +2310,7 @@ input, select, textarea {
 			color: #8cc9f0;
 		}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width: auto) {
 
 			.icon.major:before {
 				font-size: 5.5rem;
@@ -2318,7 +2318,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: auto) {
 
 			.icon.major:before {
 				font-size: 4.75rem;
@@ -2326,7 +2326,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: auto) {
 
 			.icon.major {
 				margin: 0 0 1.5em 0;
@@ -2562,7 +2562,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: auto) {
 
 			ul.actions:not(.fixed) {
 				-moz-flex-direction: column;
@@ -2676,7 +2676,7 @@ input, select, textarea {
 		margin-top: 3em;
 	}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: auto) {
 
 		header.major {
 			margin-bottom: 0;
@@ -2828,7 +2828,7 @@ input, select, textarea {
 				margin-bottom: 0;
 			}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: auto) {
 
 			.features li {
 				width: calc(50% - 2em);
@@ -2840,7 +2840,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: auto) {
 
 			.features {
 				width: 100%;
@@ -2931,7 +2931,7 @@ input, select, textarea {
 					line-height: 1.3;
 				}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: auto) {
 
 			.statistics li strong, .statistics li b {
 				font-size: 1.5em;
@@ -2939,7 +2939,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: auto) {
 
 			.statistics {
 				display: block;
@@ -3011,7 +3011,7 @@ input, select, textarea {
 				width: 16em;
 			}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: auto) {
 
 			.spotlight {
 				-moz-flex-direction: column-reverse;
@@ -3053,7 +3053,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: auto) {
 
 			.spotlight .image {
 				padding: 0.35em;
@@ -3124,7 +3124,7 @@ input, select, textarea {
 					max-width: 75%;
 				}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: auto) {
 
 			#header {
 				padding: 4em 4em 0.1em 4em ;
@@ -3136,7 +3136,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: auto) {
 
 			#header {
 				padding: 4em 3em 0.1em 3em ;
@@ -3148,7 +3148,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: auto) {
 
 			#header {
 				padding: 3em 2em 0.1em 2em ;
@@ -3173,7 +3173,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: auto) {
 
 			#header {
 				padding: 3em 1.5em 0.1em 1.5em ;
@@ -3185,7 +3185,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 360px) {
+		@media screen and (max-width: auto) {
 
 			#header {
 				padding: 2.5em 1em 0.1em 1em ;
@@ -3319,7 +3319,7 @@ input, select, textarea {
 					font-size: 0.9em;
 				}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: auto) {
 
 			#nav {
 				display: none;
@@ -3605,7 +3605,7 @@ input, select, textarea {
 					border-bottom-left-radius: 0;
 				}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: auto) {
 
 			#main > .main {
 				padding: 4em 4em 2em 4em ;
@@ -3618,7 +3618,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: auto) {
 
 			#main > .main {
 				padding: 4em 3em 2em 3em ;
@@ -3631,7 +3631,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: auto) {
 
 			#main > .main {
 				padding: 3em 2em 1em 2em ;
@@ -3644,7 +3644,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: auto) {
 
 			#main > .main {
 				padding: 3em 1.5em 1em 1.5em ;
@@ -3657,7 +3657,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 360px) {
+		@media screen and (max-width: auto) {
 
 			#main {
 				border-radius: 0;
@@ -3707,7 +3707,7 @@ input, select, textarea {
 			text-align: center;
 		}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: auto) {
 
 			#footer {
 				padding: 4em 4em 2em 4em ;
@@ -3715,7 +3715,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: auto) {
 
 			#footer {
 				padding: 4em 3em 2em 3em ;
@@ -3736,7 +3736,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: auto) {
 
 			#footer {
 				padding: 3em 2em 1em 2em ;
@@ -3744,7 +3744,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: auto) {
 
 			#footer {
 				padding: 3em 1.5em 1em 1.5em ;
@@ -3752,7 +3752,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: auto) {
 
 			#footer {
 				padding: 2.5em 1em 0.5em 1em ;
@@ -3768,7 +3768,7 @@ input, select, textarea {
 		margin: 0 auto;
 	}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: auto) {
 
 			#wrapper {
 				max-width: calc(100% - 2em);
@@ -3776,7 +3776,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 360px) {
+		@media screen and (max-width: auto) {
 
 			#wrapper {
 				max-width: 100%;
