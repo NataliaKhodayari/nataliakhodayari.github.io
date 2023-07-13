@@ -3220,7 +3220,7 @@ input, select, textarea {
 		color: #636363;
 		position: relative;
 		width: 79.7em;
-		max-width: calc(100% - 4em);
+		/* max-width: calc(100% - 4em); */
 		padding: 1em;
 		background-color: #f7f7f7;
 		border-top-left-radius: 0.25em;
