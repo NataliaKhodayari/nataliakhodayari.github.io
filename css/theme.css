@@ -5,24 +5,27 @@ body {
 }
 
 body,.website-counter {
-	display: flex;
+	/* padding-top: 15px;
+	padding-bottom: 0px; */
+	/* margin: 20px; */
+	/* display: flex; */
 	justify-content: center;
 	align-items: center;
-	flex-direction: column;
+	/* flex-direction: column; */
   }
 
   /* Styles for website counter container */
 .website-counter {
 	/* background-color: #496aff; */
-	/* height: 50px;
-	width: 80px; */
-	/* color: white; */
-	/* border-radius: 30px;
+	height: 20px;
+	width: 20px;
+	/* color: white;
+	border-radius: 30px;
 	font-weight: 700;
-	font-size: 25px;
-	margin-top: 10px; */
+	font-size: 25px; */
+	margin-top: 0px;
   }
-  
+
   /* Styles for reset button */
   #reset {
 	margin-top: 20px;
