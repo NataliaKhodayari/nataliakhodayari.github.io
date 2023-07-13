@@ -3764,8 +3764,8 @@ input, select, textarea {
 
 	#wrapper {
 		width: fit-content;
-		/* max-width: calc(100% - 4em);
-		margin: 0 auto; */
+		/* max-width: calc(100% - 4em); */
+		margin: 10%;
 	}
 
 		@media screen and (max-width: auto) {
